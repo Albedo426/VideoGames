@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/fatik/AndroidStudioProjects/VideoGames/app/src/main/res/drawable/circleindicator_round.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/fatik/AndroidStudioProjects/VideoGames/app/src/main/res/drawable/ic_baseline_heart.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/fatik/AndroidStudioProjects/VideoGames/app/src/main/res/drawable/ic_baseline_house_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/fatik/AndroidStudioProjects/VideoGames/app/src/main/res/drawable/ic_baseline_thumb_up_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/fatik/AndroidStudioProjects/VideoGames/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/fatik/AndroidStudioProjects/VideoGames/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/fatik/AndroidStudioProjects/VideoGames/app/src/main/res/layout/activity_game_details.xml" value="0.30963665086887837" />
+        <entry key="..\:/Users/fatik/AndroidStudioProjects/VideoGames/app/src/main/res/layout/activity_main.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/fatik/AndroidStudioProjects/VideoGames/app/src/main/res/layout/favorites_fragment.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/fatik/AndroidStudioProjects/VideoGames/app/src/main/res/layout/home_fragment.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/fatik/AndroidStudioProjects/VideoGames/app/src/main/res/layout/item_card.xml" value="0.67" />
+        <entry key="..\:/Users/fatik/AndroidStudioProjects/VideoGames/app/src/main/res/layout/view_pager_carda.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/fatik/AndroidStudioProjects/VideoGames/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/fatik/AndroidStudioProjects/VideoGames/app/src/main/res/menu/search_menu.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

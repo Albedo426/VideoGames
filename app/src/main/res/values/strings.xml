@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoGames</string>
+    <string name="Rate">Rate</string>
+    <string name="Search">Search</string>
+    <string name="Release">Release</string>
+    <string name="GameNotFound">Sorry, the game you were looking for was not found!</string>
+</resources>
